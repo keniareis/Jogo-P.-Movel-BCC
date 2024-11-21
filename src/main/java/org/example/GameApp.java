@@ -251,7 +251,7 @@ public class GameApp extends JPanel {
     }
 
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Jogo");
+        JFrame frame = new JFrame("Spaceman");
         GameApp gameApp = new GameApp();
         frame.add(gameApp);
         frame.setSize(800, 800);
